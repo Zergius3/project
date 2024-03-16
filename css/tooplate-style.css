@@ -32,11 +32,11 @@ a:focus {
 }
 
 .tm-section-home { 
-	background-image: url(../img/NGK.jpg); height: 100vh;}
-.tm-section-about { background-image: url(../img/image-02.jpg); height: 100vh;}
-.tm-section-services { background-image: url(../img/image-03.jpg); height: 100vh;}
-.tm-section-testimonials { background-image: url(../img/image-04.jpg); height: 100vh;}
-.tm-section-contact { background-image: url(../img/image-05.jpg); height: 100vh;}
+	background-image: url(../img/NGK2.jpeg); height: 100vh;}
+.tm-section-about { background-image: url(../img/NGK3.png); height: 100vh;}
+.tm-section-services { background-image: url(../img/NGK4.jpg); height: 100vh;}
+.tm-section-testimonials { background-image: url(../img/NGK5.png); height: 100vh;}
+.tm-section-contact { background-image: url(../img/NGK6.jpg); height: 100vh;}
 
 .navbar-toggler {
     background-color: rgba(0,0,0,0.3);
